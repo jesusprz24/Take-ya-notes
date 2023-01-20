@@ -43,8 +43,8 @@ npm i
 # Usage
 Once the application is downloaded, open the terminal and run this code in the command line.
 - node server.js
+
 You will be prompted with something that looks like localhost:3001. Click this and open up the page. 
-When finished to end the server type the control button and c simultaniously in the terminal.
 
 # Screenshot
 
