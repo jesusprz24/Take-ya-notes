@@ -74,7 +74,8 @@ function deleteNote(id, notesArray) {
     }
 }
 
-app.delete('/api/notes/:id', (req, res) => {
+//should delete the notes from the local storage...I think
+app.delete('/api/notes/', (req, res) => {
     deleteNote(req.params.id, allNotes);
     res.json(true);
 });
