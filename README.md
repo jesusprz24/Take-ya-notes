@@ -46,6 +46,4 @@ Once the application is downloaded, open the terminal and run this code in the c
 
 You will be prompted with something that looks like localhost:3001. Click this and open up the page. 
 
-# Screenshot
-
 
